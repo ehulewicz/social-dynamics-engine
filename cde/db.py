@@ -1,4 +1,4 @@
-"""SQLite storage for the Cognitive Dynamics Engine.
+"""SQLite storage for the Social Dynamics Engine.
 
 Schema mirrors the Postgres design 1:1; embeddings stored as float32 BLOBs
 (brute-force numpy cosine — a few thousand vectors is milliseconds).

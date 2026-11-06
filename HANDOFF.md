@@ -1,4 +1,4 @@
-# Handoff — CDE pipeline state and next steps
+# Handoff — Social Dynamics Engine pipeline state and next steps
 
 Context: `SPEC.md` is the build spec; §8 documents dataset signals the
 pipeline doesn't use and the agreed priority for adding them.

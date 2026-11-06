@@ -1,4 +1,4 @@
-# Cognitive Dynamics Engine — Build Spec
+# Social Dynamics Engine — Build Spec
 
 How each step of the pipeline works, as implemented in `cde/`.
 

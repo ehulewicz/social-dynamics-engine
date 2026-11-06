@@ -13,7 +13,7 @@ from fastapi.staticfiles import StaticFiles
 
 from cde import db
 
-app = FastAPI(title="Cognitive Dynamics Engine")
+app = FastAPI(title="Social Dynamics Engine")
 WEB = os.path.join(db.ROOT, "web")
 
 
