@@ -2,9 +2,6 @@
 
 Georgia Tech Devin Hackathon.
 
-**Demo claim:** a conversation today connects to an experience days earlier
-through a traceable chain of evidence — not just because embeddings are similar.
-
 **Product framing:** Jake wore a camera for a week with five housemates. Social Dynamics Engine
 lets him understand *himself* (how he acts), *how he deals with each person*,
 and *how they act differently around him* — every conclusion clickable down to
@@ -20,7 +17,7 @@ insight carries the evidence that supports it.
 
 ---
 
-## Demo script (presentation order)
+## Hackathon Presentation Order
 
 1. **Open the app → Themes lens (top zoom level).** Two bands of
    human-readable bubbles ordered across the week:
